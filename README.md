@@ -165,7 +165,7 @@ Due to file size limitations (over 100MB), the Power BI reports and associated d
 **Sunny Kumar Yadav**  
 📍 Delhi, India  
 📧 sunnykryadav71432@gmail.com  
-🔗 [GitHub](https://github.com/Sunny-Kumar-Yadav) | [LinkedIn](https://www.linkedin.com/in/sunny-kumar-yadav/)
+🔗 [GitHub](https://github.com/Sunny-Kumar-Yadav) | [LinkedIn](https://www.linkedin.com/in/sunnykumaryadav/)
 
 ---
 
